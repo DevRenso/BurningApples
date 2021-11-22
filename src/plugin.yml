@@ -1,0 +1,9 @@
+name: bApples
+main: dev.deqrenso.burningdev.bapples.bApples
+author: deqrenso
+version: 1.0
+description: Burning Apples Plugin.
+commands:
+  bapple:
+  applemanager:
+    aliases: ["applem", "mapple", "applem"]

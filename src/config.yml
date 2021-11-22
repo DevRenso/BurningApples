@@ -1,0 +1,3 @@
+CONSOLE-NAME: "&7Console"
+COOLDOWN-MESSAGE: "&7You need wait %time% to eat again."
+GIVE-APPLE: "&7%player% &agive you &7x%amount% &a%apple%"
